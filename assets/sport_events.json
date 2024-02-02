@@ -1,0 +1,20 @@
+{
+  "sportEvents": [
+    {
+      "iconUrl": "https://cdn-icons-png.flaticon.com/512/2158/2158416.png",
+      "league": "Serie A",
+      "teams": "Milan vs Munich",
+      "sportType": "Football",
+      "dateStarting": "Today",
+      "timeStarting": "14:00"
+    },
+    {
+      "iconUrl": "https://cdn-icons-png.flaticon.com/512/3311/3311579.png",
+      "league": "Lega b",
+      "teams": "Milan vs Munich",
+      "sportType": "Football",
+      "dateStarting": "Tomorrow",
+      "timeStarting": "12:45"
+    }
+  ]
+}
